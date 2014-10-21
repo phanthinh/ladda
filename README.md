@@ -11,6 +11,10 @@ ladda directive
 
 ## Installing
 
+Preview example
+```html
+http://msurguy.github.io/ladda-bootstrap/
+
 Add js inline 
 ```html
 	<script src="js/libs/ladda/spin.min.js"></script>	
